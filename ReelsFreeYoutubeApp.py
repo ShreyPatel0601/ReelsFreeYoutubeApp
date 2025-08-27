@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 
 # 🔑 Insert your YouTube API key here
-API_KEY = "AIzaSyAgJ24uDnRzFmmBIl7nhJZnPmZYQKubqEo"
+API_KEY = "put your API "
 BASE_URL = "https://www.googleapis.com/youtube/v3/search"
 
 # 📽️ Function to get videos from YouTube API
